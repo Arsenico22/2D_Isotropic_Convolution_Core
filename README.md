@@ -1,3 +1,5 @@
+An optimized, fully pipelined 2D Isotropic Convolutional Accelerator IP Core implemented in VHDL. Designed for real-time spatial filtering of 64 x 64 8-bit unsigned grayscale images using a 3 x 3 kernel with 8-bit signed coefficients.
+
 💡 Key Architectural Features
 
 Isotropic Optimization: 
